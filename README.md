@@ -7,7 +7,7 @@ Credits to Savvas Tjortjoglou for court plotting: http://savvastjortjoglou.com/n
 Pravendra for court shapes: https://moderndata.plot.ly/nba-shots-analysis-using-plotly-shapes/
 Sam Liebman for explanation on working with Plotly: https://github.com/slieb74/NBA-Shot-Analysis
 ## Screenshot
-
+![Screenshot of Shotchart](/relative/path/to/shotchart.png?raw=true "Screenshot of Shotchart")
 
 ## For Version 2
 - Filter by season (set season for shotchartdetail, check if can import from CSV)
