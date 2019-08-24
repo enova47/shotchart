@@ -3,7 +3,7 @@ Shotchart for NBA 2018-19 Season
 
 Deployed on Heroku at https://nba-shotchart-1819.herokuapp.com/
  
-Credits to:
+## Credits to:
 -Savvas Tjortjoglou for court plotting: http://savvastjortjoglou.com/nba-shot-sharts.html
 -Pravendra for court shapes: https://moderndata.plot.ly/nba-shots-analysis-using-plotly-shapes/
 -Sam Liebman for explanation on working with Plotly: https://github.com/slieb74/NBA-Shot-Analysis
